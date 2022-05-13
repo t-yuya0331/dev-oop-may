@@ -1,0 +1,5 @@
+1 Actions Folder = all the action files -- if(isset(...)) codes
+2 Classes Folder = all the class files -- classes,methods,properties
+3 Views Folder = all the view /display files -- UI
+4
+5 Assets Folder = css,javascript,
